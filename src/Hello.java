@@ -1,7 +1,7 @@
 public class Hello {
 
     String Hello;
-    String hola;
+    String hola21;
 
     public String getHello() {
         return Hello;
