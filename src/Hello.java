@@ -2,7 +2,7 @@ public class Hello {
 
     String Hello;
     String Adios;
-    String kpasaTio25;
+    String kpasaTio33;
 
     public String getHello() {
         return Hello;
